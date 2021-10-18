@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-## Working with:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miustone&layout=compact&langs_count=10&theme=default)](https://github.com/miustone)
 
-## Social Media:
+## My Social Media Accounts:
 [<img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" width="32">](https://twitter.com/m1u5t0n3)
 [<img src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" width="32">](https://www.instagram.com/m1u5t0n3)
 [<img src="https://www.vectorlogo.zone/logos/discordapp/discordapp-icon.svg" width="32">](https://discord.gg/dZyN7Qt)
