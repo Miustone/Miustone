@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miustone&layout=compact&langs_count=10&theme=default)](https://github.com/miustone)
+
 <!--
 **Miustone/Miustone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
