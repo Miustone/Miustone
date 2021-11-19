@@ -1,8 +1,3 @@
-### Hi there 👋
-
-[![miustone github stats](https://github-readme-stats.vercel.app/api?username=miustone&show_icons=true&include_all_commits=true&theme=default)](https://github.com/miustone)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miustone&layout=compact&langs_count=10&theme=default)](https://github.com/miustone)
-
 ## My Social Media Accounts:
 [<img src="https://www.vectorlogo.zone/logos/discordapp/discordapp-icon.svg" width="32">](https://discord.gg/dZyN7Qt)
 [<img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" width="32">](https://twitter.com/m1u5t0n3)
