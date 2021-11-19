@@ -1,4 +1,3 @@
-## My Social Media Accounts:
 [<img src="https://www.vectorlogo.zone/logos/discordapp/discordapp-icon.svg" width="32">](https://discord.gg/dZyN7Qt)
 [<img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" width="32">](https://twitter.com/m1u5t0n3)
 [<img src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" width="32">](https://www.instagram.com/m1u5t0n3)
